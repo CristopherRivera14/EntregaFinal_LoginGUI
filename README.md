@@ -1,2 +1,2 @@
 # EntregaFinal_LoginGUI
-Repositorio de evidencias proyecto final
+#Proyect final Login GUI
